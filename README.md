@@ -149,11 +149,15 @@ External Services / APIs
 ### 🔐 Authentication
 <div align="center">
   
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt="Auth1"/>
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt="Register1"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/auth1.png" 
+       width="180" 
+       alt="Auth1" 
+       style="border:2px solid #000; border-radius:8px;"/>
+</p>  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt="Register1"/>
   <img src="https://github.com/YaraZalat/Nesyan/blob/main/register2.png" width="180" alt="Register2"/>
   <img src="https://github.com/YaraZalat/Nesyan/blob/main/register3.png" width="180" alt="Register3"/>
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt="Register1"/>
+  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt=""/>
   <br/>
   <img src="https://github.com/user-attachments/assets/3fe97ac2-aad9-4d61-b12c-cf51888e656b" width="180"/>
   <img src="https://github.com/user-attachments/assets/07da058f-1532-4bc6-ad10-ccb7074de210" width="180"/>
