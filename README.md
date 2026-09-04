@@ -150,7 +150,7 @@ External Services / APIs
 [![Authentication Demo](./auth-thumbnail.svg)](https://youtube.com/shorts/fx94VgSU9FY)
 
 ### 👨‍👩‍👧 Relative
-[![Relative Demo](./relative-thumbnail.svg)](https://youtu.be/4cVVnjcMVTg)
+[![Relative Demo](./relative-thumbnail.png)](https://youtu.be/4cVVnjcMVTg)
 
 ### 👩‍⚕️ Caregiver
 [![Caregiver Demo](./caregiver-thumbnail.svg)](https://youtube.com/shorts/Mq_l7jhEDZU)
