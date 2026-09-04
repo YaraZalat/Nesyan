@@ -147,7 +147,7 @@ External Services / APIs
 ## 🎥 Demo Videos
 
 ### 🔐 Authentication
-[![Authentication Demo](Screenshot 2026-09-04 225524.png
+[![Authentication Demo](auth-thumbnail.png
 )](https://youtube.com/shorts/fx94VgSU9FY?feature=share)
 
 ### 👨‍👩‍👧 Relative
