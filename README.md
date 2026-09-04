@@ -122,7 +122,7 @@ External Services / APIs
 
 ## 📱 Application Screens
 
-### Home
+### Authentications
 
 ![Home Screen](assets/screenshots/home.png)
 
@@ -147,7 +147,21 @@ External Services / APIs
 ## 🎥 Demo Videos
 
 ### 🔐 Authentication
-[![Authentication Demo](./auth-thumbnail.png)](https://youtube.com/shorts/fx94VgSU9FY)
+<div align="center">
+
+  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" width="180" alt="Register1"/>
+<img src="https://github.com/YaraZalat/Nesyan/blob/main/register2.png" width="180" alt="Register2"/>
+<img src="https://github.com/YaraZalat/Nesyan/blob/main/register3.png" width="180" alt="Register3"/>
+  <img src="https://github.com/user-attachments/assets/ea890812-9cec-4340-87c4-d1b664ee4fb3" width="180"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/3fe97ac2-aad9-4d61-b12c-cf51888e656b" width="180"/>
+  <img src="https://github.com/user-attachments/assets/07da058f-1532-4bc6-ad10-ccb7074de210" width="180"/>
+  <img src="https://github.com/user-attachments/assets/9df256bf-64c0-4e97-8afe-bdc7e75a178b" width="180"/>
+  <img src="https://github.com/user-attachments/assets/7589b5a4-ead9-4304-8856-51936771ee4f" width="180"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/4161af10-5a46-40e0-9afb-01ba873aa35d" width="180"/>
+
+</div>
 
 ### 👨‍👩‍👧 Relative
 [![Relative Demo](./relative-thumbnail.png)](https://youtu.be/4cVVnjcMVTg)
