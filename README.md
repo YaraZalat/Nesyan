@@ -147,23 +147,21 @@ External Services / APIs
 ## 🎥 Demo Videos
 
 ### 🔐 Authentication
-[![Authentication Demo](auth-thumbnail.png
-)](https://youtube.com/shorts/fx94VgSU9FY?feature=share)
+[![Authentication Demo](auth-thumbnail.png)](https://youtube.com/shorts/fx94VgSU9FY?feature=share)
 
 ### 👨‍👩‍👧 Relative
-[▶️ Watch Relative Demo](YOUTUBE_LINK)
+[![Authentication Demo](relative-thumbnail.png)](https://youtu.be/4cVVnjcMVTg)
 
 ### 👩‍⚕️ Caregiver
-[▶️ Watch Caregiver Demo](YOUTUBE_LINK)
+[![Authentication Demo](caregiver-thumbnail.png)](https://youtube.com/shorts/Mq_l7jhEDZU?feature=share)
 
 ### 🧑‍🦽 Patient 1
-[▶️ Watch Patient Demo – Part 1](YOUTUBE_LINK)
+[![Authentication Demo](patient-std1-thumbnail.png)](https://youtube.com/shorts/Cj41aZK0LTI?feature=share)
 
-### 🧑‍🦽 Patient 2
-[▶️ Watch Patient Demo – Part 2](YOUTUBE_LINK)
+### 🧑‍🦽 Patient 2 , 3
+[![Authentication Demo](patient-std2,3-thumbnail.png)](https://youtube.com/shorts/MsCk0-Ts7vs?feature=share)
 
-### 🧑‍🦽 Patient 3
-[▶️ Watch Patient Demo – Part 3](YOUTUBE_LINK)
+---
 
 ## 👩‍💻 My Role
 
