@@ -164,20 +164,21 @@ External Services / APIs
         <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register3.png" width="180"/>
       </td>
     </tr>
-       <tr>
-      <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/confirm_sccess" width="180"/>
-      </td>
-      <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/forget_password" width="180"/>
-      </td>
-      <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reset_password" width="180"/>
-      </td>
-      <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/verify_account" width="180"/>
-      </td>
-    </tr>
+      <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/confirm_success.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/forget_password.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reset_password.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/verify_account.png" width="180"/>
+  </td>
+</tr>
+
   </table>
 
 </div>
