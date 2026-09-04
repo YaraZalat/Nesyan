@@ -149,29 +149,49 @@ External Services / APIs
 ### 🔐 Authentication
 <div align="center">
 
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/auth1.png" 
+  <!-- الصف الأول -->
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/auth1.png" 
        width="180" 
        alt="Authentication"
        style="border:8px solid black; border-radius:20px; padding:10px;"/>
-
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register1.png" 
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register1.png" 
        width="180" 
        alt="Register1"
        style="border:8px solid black; border-radius:20px; padding:10px;"/>
-
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register2.png" 
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register2.png" 
        width="180" 
        alt="Register2"
        style="border:8px solid black; border-radius:20px; padding:10px;"/>
-
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/register3.png" 
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register3.png" 
        width="180" 
        alt="Register3"
        style="border:8px solid black; border-radius:20px; padding:10px;"/>
 
-  <img src="https://github.com/YaraZalat/Nesyan/blob/main/login.png" 
+  <br/>
+
+  <!-- الصف الثاني -->
+  <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/login.png" 
        width="180" 
        alt="Login"
+       style="border:8px solid black; border-radius:20px; padding:10px;"/>
+  <img src="https://github.com/user-attachments/assets/3fe97ac2-aad9-4d61-b12c-cf51888e656b" 
+       width="180"
+       style="border:8px solid black; border-radius:20px; padding:10px;"/>
+  <img src="https://github.com/user-attachments/assets/07da058f-1532-4bc6-ad10-ccb7074de210" 
+       width="180"
+       style="border:8px solid black; border-radius:20px; padding:10px;"/>
+  <img src="https://github.com/user-attachments/assets/9df256bf-64c0-4e97-8afe-bdc7e75a178b" 
+       width="180"
+       style="border:8px solid black; border-radius:20px; padding:10px;"/>
+
+  <br/>
+
+  <!-- الصف الثالث -->
+  <img src="https://github.com/user-attachments/assets/7589b5a4-ead9-4304-8856-51936771ee4f" 
+       width="180"
+       style="border:8px solid black; border-radius:20px; padding:10px;"/>
+  <img src="https://github.com/user-attachments/assets/4161af10-5a46-40e0-9afb-01ba873aa35d" 
+       width="180"
        style="border:8px solid black; border-radius:20px; padding:10px;"/>
 
 </div>
