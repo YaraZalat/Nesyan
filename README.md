@@ -144,13 +144,25 @@ External Services / APIs
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Videos
 
-A short demonstration of the NESYAN application:
+### 🔐 Authentication
+[![Authentication Demo](assets/demo/auth-thumbnail.png)](https://youtube.com/shorts/fx94VgSU9FY?feature=share)
 
-▶️ **[Watch NESYAN Demo](YOUR_VIDEO_LINK_HERE)**
+### 👨‍👩‍👧 Relative
+[▶️ Watch Relative Demo](YOUTUBE_LINK)
 
----
+### 👩‍⚕️ Caregiver
+[▶️ Watch Caregiver Demo](YOUTUBE_LINK)
+
+### 🧑‍🦽 Patient 1
+[▶️ Watch Patient Demo – Part 1](YOUTUBE_LINK)
+
+### 🧑‍🦽 Patient 2
+[▶️ Watch Patient Demo – Part 2](YOUTUBE_LINK)
+
+### 🧑‍🦽 Patient 3
+[▶️ Watch Patient Demo – Part 3](YOUTUBE_LINK)
 
 ## 👩‍💻 My Role
 
@@ -210,7 +222,6 @@ The repository does not contain private credentials, confidential project files,
 * 🧠 Cognitive and mind games
 * 🏗️ Clean Architecture
 * 🔄 Cubit / Bloc state management
-* 🔥 Firebase integration
 * 🌐 REST API integration
 
 ---
@@ -220,5 +231,4 @@ The repository does not contain private credentials, confidential project files,
 **Yara Yasser Zalat**
 
 * 📧 Email: [yarazalat6@gmail.com](mailto:yarazalat6@gmail.com)
-* 💻 GitHub: [Yara Zalat](YOUR_GITHUB_LINK)
-* 🔗 LinkedIn: [Yara Zalat](YOUR_LINKEDIN_LINK)
+* 🔗 LinkedIn: [Yara Zalat](https://www.linkedin.com/in/yarazalat)
