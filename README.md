@@ -158,13 +158,10 @@ External Services / APIs
   </table>
 
 </div>
-### Medication Reminders
 
-![Medication Reminders](assets/screenshots/medication.png)
 
-### Relative
 
-### 🔐 Authentication
+###  Relative
 <div align="center">
 
   <table>
@@ -173,7 +170,7 @@ External Services / APIs
         <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/patients_list.png" width="180"/>
       </td>
       <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register1.png" width="180"/>
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/patient_home.png" width="180"/>
       </td>
       <td style="background:black; padding:10px; border-radius:20px;">
         <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reminders.png" width="180"/>
