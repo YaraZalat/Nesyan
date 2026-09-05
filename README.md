@@ -122,30 +122,6 @@ External Services / APIs
 
 ## 📱 Application Screens
 
-### Authentications
-
-![Home Screen](assets/screenshots/home.png)
-
-### Medication Reminders
-
-![Medication Reminders](assets/screenshots/medication.png)
-
-### Appointments
-
-![Appointments](assets/screenshots/appointments.png)
-
-### Map & Safe Zone
-
-![Map and Safe Zone](assets/screenshots/safe-zone.png)
-
-### Mind Games
-
-![Mind Games](assets/screenshots/mind-games.png)
-
----
-
-## 🎥 Demo Videos
-
 ### 🔐 Authentication
 <div align="center">
 
@@ -182,6 +158,79 @@ External Services / APIs
   </table>
 
 </div>
+### Medication Reminders
+
+![Medication Reminders](assets/screenshots/medication.png)
+
+### Relative
+
+### 🔐 Authentication
+<div align="center">
+
+  <table>
+    <tr>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/patients_list.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/register1.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reminders.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/medications.png" width="180"/>
+      </td>
+    </tr>
+      <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/appointment.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/forget_password.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/location.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/safezone.png" width="180"/>
+  </td>
+</tr>
+
+ <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/report1.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/report2.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/report3.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/family_list.png" width="180"/>
+  </td>
+</tr>
+ <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/add_family.png" width="180"/>
+  </td>
+<tr>
+</tr>
+  </table>
+
+</div>
+
+### Map & Safe Zone
+
+![Map and Safe Zone](assets/screenshots/safe-zone.png)
+
+### Mind Games
+
+![Mind Games](assets/screenshots/mind-games.png)
+
+---
+
+## 🎥 Demo Videos
 
 ### 👨‍👩‍👧 Relative
 [![Relative Demo](./relative-thumbnail.png)](https://youtu.be/4cVVnjcMVTg)
