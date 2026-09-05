@@ -296,7 +296,7 @@ External Services / APIs
   <table>
     <tr>
       <td style="background:black; padding:10px; border-radius:20px;">
-        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/home2.png" width="180"/>
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/home.png" width="180"/>
       </td>
       <td style="background:black; padding:10px; border-radius:20px;">
         <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/profile2.png" width="180"/>
@@ -330,16 +330,16 @@ External Services / APIs
 ## 🎥 Demo Videos
 
 ### 👨‍👩‍👧 Relative
-[![Relative Demo](./relative-thumbnail.png)](https://youtu.be/4cVVnjcMVTg)
+[▶️ Relative Demo](https://youtu.be/4cVVnjcMVTg)
 
 ### 👩‍⚕️ Caregiver
-[![Caregiver Demo](./caregiver-thumbnail.png)](https://youtube.com/shorts/Mq_l7jhEDZU)
+[▶️ Caregiver Demo](https://youtube.com/shorts/Mq_l7jhEDZU)
 
 ### 🧑‍🦽 Patient 1
-[![Patient 1 Demo](./patient-std1-thumbnail.png)](https://youtube.com/shorts/Cj41aZK0LTI)
+[▶️ Patient 1 Demo](https://youtube.com/shorts/Cj41aZK0LTI)
 
 ### 🧑‍🦽 Patient 2 & 3
-[![Patient 2 & 3 Demo](./patient-std2-3-thumbnail.png)](https://youtube.com/shorts/MsCk0-Ts7vs)
+[▶️ Patient 2 & 3 Demo](https://youtube.com/shorts/MsCk0-Ts7vs)
 ---
 
 ## 👩‍💻 My Role
