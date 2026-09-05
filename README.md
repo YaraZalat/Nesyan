@@ -259,9 +259,37 @@ External Services / APIs
 </div>
 
 
-### Mind Games
+### 🧑‍🦽 Patient 1
+<div align="center">
 
-![Mind Games](assets/screenshots/mind-games.png)
+  <table>
+    <tr>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/home.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/profile.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reminders.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/games.png" width="180"/>
+      </td>
+    </tr>
+      <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/start_game.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/game.png" width="180"/>
+  </td>
+  
+</tr>
+  </table>
+
+</div>
+
 
 ---
 
