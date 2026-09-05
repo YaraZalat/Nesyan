@@ -161,7 +161,7 @@ External Services / APIs
 
 
 
-###  Relative
+### 👨‍👩‍👧 Relative
 <div align="center">
 
   <table>
@@ -184,7 +184,7 @@ External Services / APIs
     <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/appointment.png" width="180"/>
   </td>
   <td style="background:black; padding:10px; border-radius:20px;">
-    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/forget_password.png" width="180"/>
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/rotune.png" width="180"/>
   </td>
   <td style="background:black; padding:10px; border-radius:20px;">
     <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/location.png" width="180"/>
@@ -217,9 +217,47 @@ External Services / APIs
 
 </div>
 
-### Map & Safe Zone
+### 👨‍👩‍👧 Caregiver
+<div align="center">
 
-![Map and Safe Zone](assets/screenshots/safe-zone.png)
+  <table>
+    <tr>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/list_of_patient.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/home_patient.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/reminders.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/medications.png" width="180"/>
+      </td>
+    </tr>
+      <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/appointment.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/rotune.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/location_patient.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/new_medications.png" width="180"/>
+  </td>
+</tr>
+ <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/family.png" width="180"/>
+  </td> 
+</tr>
+  </table>
+
+</div>
+
 
 ### Mind Games
 
