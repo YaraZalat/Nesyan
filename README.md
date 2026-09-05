@@ -290,6 +290,40 @@ External Services / APIs
 
 </div>
 
+### 🧑‍🦽 Patient 2,3
+<div align="center">
+
+  <table>
+    <tr>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/home2.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/profile2.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/game_level3.png" width="180"/>
+      </td>
+      <td style="background:black; padding:10px; border-radius:20px;">
+        <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/games.png" width="180"/>
+      </td>
+    </tr>
+      <tr>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/rating_of_game.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/record_voice.png" width="180"/>
+  </td>
+  <td style="background:black; padding:10px; border-radius:20px;">
+    <img src="https://raw.githubusercontent.com/YaraZalat/Nesyan/main/recognation_voice.png" width="180"/>
+  </td>
+  
+</tr>
+  </table>
+
+</div>
+
 
 ---
 
